@@ -3,7 +3,7 @@
 This project is a web-based application for exploring and analyzing WhatsApp chat data, built using Python, Streamlit, and several data visualization libraries. The application provides insightful statistics and visualizations of WhatsApp conversations to help users better understand messaging patterns, activity levels, common words, and emoji usage.
 
 ### Result
-![alt text](https://github.com/Aravindraprasad/EDA-WhatsApp/blob/main/screenshots/1.png)
+![alt text](https://github.com/Aravindraprasad/EDA-WhatsApp/blob/main/screenshots/1.jpg)
 
 ![alt text](https://github.com/Aravindraprasad/EDA-WhatsApp/blob/main/screenshots/2.jpg)
 
@@ -40,6 +40,9 @@ To run this application locally, follow these steps:
 
 ```bash
   git clone https://github.com/your-username/whatsapp-chat-analyzer.git
+```
+
+```bash
 cd whatsapp-chat-analyzer
 ```
 
