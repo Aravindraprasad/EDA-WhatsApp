@@ -39,6 +39,10 @@ Monthly and Daily Timelines: Visualizes the number of messages over time, both o
 To run this application locally, follow these steps:
 
 ```bash
+  Install python 3.7v
+```
+
+```bash
   git clone https://github.com/your-username/whatsapp-chat-analyzer.git
 ```
 
